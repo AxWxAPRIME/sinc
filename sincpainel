@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo -e "\033[1;36mINSTALANDO O SINCRONIZADOR MultiHD-SSH\033[0m"
+echo -e "\033[1;36mINSTALANDO O SINCRONIZADOR WEB A.I\033[0m"
 echo -e ""
 echo -e "\033[1;36mPOR FAVOR AGUARDE....\033[0m"
 echo "America/Sao_Paulo" > /etc/timezone
